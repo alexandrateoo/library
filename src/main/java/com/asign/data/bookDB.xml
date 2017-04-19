@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <author>Ion Creanga</author>
+        <genre>reality-comedy</genre>
+        <ISBN>iSBN1</ISBN>
+        <price>10.0</price>
+        <quantity>10</quantity>
+        <title>Amintiri din copilarie</title>
+    </book>
+    <book>
+        <author>RR Martin</author>
+        <genre>fantasy-drama</genre>
+        <ISBN>iSBN2</ISBN>
+        <price>40.8</price>
+        <quantity>2</quantity>
+        <title>Game of thrones</title>
+    </book>
+    <book>
+        <author>Ileana Vulpescu</author>
+        <genre>novel</genre>
+        <ISBN>iSBN3</ISBN>
+        <price>30.0</price>
+        <quantity>3</quantity>
+        <title>Arta conversatiei</title>
+    </book>
+</books>

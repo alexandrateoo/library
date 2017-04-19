@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>alex</name>
+        <password>password</password>
+        <type>admin</type>
+        <username>alex24</username>
+    </user>
+    <user>
+        <id>2</id>
+        <name>flore</name>
+        <password>password2</password>
+        <type>employee</type>
+        <username>flore11</username>
+    </user>
+    <user>
+        <id>3</id>
+        <name>marius</name>
+        <password>password3</password>
+        <type>employee</type>
+        <username>marius30</username>
+    </user>
+    <user>
+        <address>abc 88</address>
+        <id>7</id>
+        <name>Vlad</name>
+        <password>password</password>
+        <type>employee</type>
+        <username>vlad18</username>
+    </user>
+    <user>
+        <address>abc 88</address>
+        <id>5</id>
+        <name>Alina</name>
+        <password>catalina</password>
+        <type>employee</type>
+        <username>catalina10</username>
+    </user>
+    <user>
+        <address>Maramures</address>
+        <id>6</id>
+        <name>marius</name>
+        <password>mypassword</password>
+        <type>employee</type>
+        <username>marius32</username>
+    </user>
+</users>
